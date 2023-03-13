@@ -100,7 +100,7 @@ h1{
 .desc{
   line-height: 1.5rem;
 }
-@media only screen and (min-width: 680px){
+@media (max-width: 680px){
   body{
     margin: 1.5em 5em; 
     font-family: "Poppins", sans-serif;
